@@ -2,3 +2,5 @@
 /lib/
 /include/
 /PicturePlaylist/PicturePlaylist/settings.py
+__pycache__/
+/.Python/
